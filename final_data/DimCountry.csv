@@ -1,0 +1,46 @@
+CountryKey,CountryCode,CountryName,IncomeGroup,ClimateType
+1,AL,Albania,Low,Mediterranean climate
+2,AD,Andorra,Middle,Mediterranean climate
+3,AT,Austria,Higher middle,Eastern-continental climate
+4,BY,Belarus,Low,Eastern-continental climate
+5,BE,Belgium,Higher middle,Oceanic climate
+6,BA,Bosnia and Herzegovina,Lower middle,Mediterranean climate
+7,BG,Bulgaria,Lower middle,Mediterranean climate
+8,HR,Croatia,Middle,Mediterranean climate
+9,CY,Cyprus,Middle,Mediterranean climate
+10,CZ,Czech Republic,Eastern-continental climate,
+11,DK,Denmark,High,Oceanic climate
+12,EE,Estonia,Middle,Nordic climate
+13,FI,Finland,Higher middle,Nordic climate
+14,FR,France,Higher middle,Oceanic climate
+15,DE,Germany,Higher middle,Oceanic climate
+16,GR,Greece,Lower middle,Mediterranean climate
+17,HU,Hungary,Lower middle,Eastern-continental climate
+18,IS,Iceland,High,Nordic climate
+19,IE,Ireland,High,Oceanic climate
+20,IT,Italy,Middle,Mediterranean climate
+21,LV,Latvia,Lower middle,Eastern-continental climate
+22,LI,Liechtenstein,High,Eastern-continental climate
+23,LT,Lithuania,Higher middle,Eastern-continental climate
+24,LU,Luxembourg,High,Oceanic climate
+25,MT,Malta,Higer middle,Mediterranean climate
+26,MD,Moldova,Low,Mediterranean climate
+27,MC,Monaco,High,Mediterranean climate
+28,ME,Montenegro,Lower middle,Mediterranean climate
+29,NL,Netherlands,Higher middle,Oceanic climate
+30,MK,North Macedonia,Lower middle,Mediterranean climate
+31,NO,Norway,Higher middle,Nordic climate
+32,PL,Poland,Middle,Eastern-continental climate
+33,PT,Portugal,Middle,Mediterranean climate
+34,RO,Romania,Lower middle,Eastern-continental climate
+35,RU,Russia,Lower middle,Eastern-continental climate
+36,SM,San Marino,Middle,Mediterranean climate
+37,RS,Serbia,Lower middle,Eastern-continental climate
+38,SK,Slovakia,Higher middle,Eastern-continental climate
+39,SI,Slovenia,Middle,Mediterranean climate
+40,ES,Spain,Middle,Mediterranean climate
+41,SE,Sweden,Higher middle,Nordic climate
+42,CH,Switzerland,High,Eastern-continental climate
+43,UA,Ukraine,Low,Eastern-continental climate
+44,GB,United Kingdom,Higher middle,Oceanic climate
+45,VA,Vatican City,Higher middle,Mediterranean climate

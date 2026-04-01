@@ -1,0 +1,16 @@
+DisorderKey,DisorderName,Category,Meds,Therapy
+1,Schizophrenia,Schizophrenia,Antipsychotics,Psychotherapy
+2,Bipolar disorder,Bipolar disorder,Mood stabilizers,Psychotherapy
+3,Anorexia,Eating disorders,None,Nutritional therapy
+4,Bulimia,Eating disorders,SSRIs,CBT
+5,Binge eating disorder,Eating disorders,SSRIs,CBT
+6,Generalized anxiety disorder,Anxiety disorders,SSRIs,CBT
+7,Panic disorder,Anxiety disorders,SSRIs,CBT
+8,Social anxiety disorder,Anxiety disorders,SSRIs,CBT
+9,Opioid use disorder,Drug use disorders,Methadone,Behavioral therapy
+10,Cannabis use disorder,Drug use disorders,None,Behavioral therapy
+11,Stimulant use disorder,Drug use disorders,None,Behavioral therapy
+12,Major depressive disorder,Depression,SSRIs,CBT
+13,Persistent depressive disorder,Depression,SSRIs,Psychotherapy
+14,Alcohol dependence,Alcohol use disorders,Disulfiram,Behavioral therapy
+15,Alcohol abuse,Alcohol use disorders,None,Behavioral therapy
